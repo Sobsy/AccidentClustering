@@ -1,1 +1,2 @@
 # AccidentClustering
+This project involves clustering acccidents and the various factors such as condition of the road, weather, lighting, etc. prevalent during the accident. From the clustered solution we determine which factors are most responsible in the cause of an accident and the intensity to which these factors affect the accident. Thus we can obtain solutions on improving these factors to enhance safety in the road
